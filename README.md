@@ -1,2 +1,7 @@
 # Microsoft-office
-my config of microsoft office deployment tool
+### My config of microsoft office deployment tool
+---
+Как установить:
+- Распакуйте файлы в корень диска C:\
+- Запустите от имени администратора файл SETUP.bat
+- Ожидайте завершения установки
